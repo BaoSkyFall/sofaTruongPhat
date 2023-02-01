@@ -13561,3 +13561,11 @@ a:active,
 .product-item .product-inner img {
   width: 100%;
 }
+
+.bg-white {
+  background-color: #ffffff !important;
+}
+
+.bg-primary {
+  background-color: #b6c0c8 !important;
+}
