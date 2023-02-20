@@ -7,7 +7,7 @@ import * as categoriesData from '../../data/categories.json'
 })
 export class CategoriesService {
 
-  data = categoriesData
+  data = (categoriesData as any).default;
 
   constructor() { }
   getCategories(): Observable<any> {
