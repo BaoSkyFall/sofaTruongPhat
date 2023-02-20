@@ -26,7 +26,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ"
@@ -86,7 +86,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -109,6 +109,7 @@
     "sortOrder": 4
   },
   {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
     "categoryIds": [
       "SOFA_DA_THAT",
       "SOFA_BANG_VANG"
@@ -162,7 +163,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -212,7 +213,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ"
@@ -272,7 +273,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -295,6 +296,7 @@
     "sortOrder": 4
   },
   {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
     "categoryIds": [
       "SOFA_DA_THAT",
       "SOFA_NI_NHUNG"
@@ -348,7 +350,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -398,7 +400,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ"
@@ -458,7 +460,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -481,6 +483,7 @@
     "sortOrder": 4
   },
   {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
     "categoryIds": [
       "SOFA_NI_NHUNG",
       "SOFA_BANG_VANG",
@@ -535,7 +538,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -585,7 +588,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ"
@@ -645,7 +648,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -668,6 +671,7 @@
     "sortOrder": 4
   },
   {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
     "categoryIds": [
       "SOFA_DA_THAT",
       "SOFA_BANG_VANG"
@@ -721,7 +725,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -771,7 +775,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ"
@@ -831,7 +835,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -854,6 +858,7 @@
     "sortOrder": 4
   },
   {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
     "categoryIds": [
       "SOFA_DA_THAT",
       "SOFA_BANG_VANG"
@@ -907,7 +912,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -957,7 +962,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ"
@@ -1017,7 +1022,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -1040,6 +1045,7 @@
     "sortOrder": 4
   },
   {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
     "categoryIds": [
       "SOFA_DA_THAT",
       "SOFA_BANG_VANG"
@@ -1093,7 +1099,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -1143,7 +1149,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ"
@@ -1203,7 +1209,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -1226,6 +1232,7 @@
     "sortOrder": 4
   },
   {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
     "categoryIds": [
       "SOFA_DA_THAT",
       "SOFA_BANG_VANG"
@@ -1279,7 +1286,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -1329,7 +1336,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ"
@@ -1389,7 +1396,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -1412,6 +1419,7 @@
     "sortOrder": 4
   },
   {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
     "categoryIds": [
       "SOFA_DA_THAT",
       "SOFA_BANG_VANG"
@@ -1465,7 +1473,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -1515,7 +1523,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ"
@@ -1575,7 +1583,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"
@@ -1598,6 +1606,7 @@
     "sortOrder": 4
   },
   {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
     "categoryIds": [
       "SOFA_DA_THAT",
       "SOFA_BANG_VANG"
@@ -1651,7 +1660,7 @@
       }
     ],
     "price": null,
-    "main-information": [
+    "mainInformation": [
       {
         "key": "Chất Liệu",
         "value": "Khung gỗ Bạch Dương"

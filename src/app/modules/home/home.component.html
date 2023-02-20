@@ -153,7 +153,7 @@
                     </div>
                     <div class="product-thumb">
                       <div class="thumb-inner">
-                        <a href="#">
+                        <a [routerLink]="'prod  uct-detail/'+ item.id">
                           <img [src]="'assets/sofa-images/'+ item.images[0]" alt="img">
                         </a>
                         <div class="thumb-group">
@@ -162,7 +162,7 @@
                               <a href="#">Add to Wishlist</a>
                             </div>
                           </div> -->
-                          <a href="#" class="button quick-wiew-button"> View</a>
+                          <a [routerLink]="'/shop/product-detail/'+ item.id" class="button quick-wiew-button"> View</a>
                           <!-- <div class="loop-form-add-to-cart">
                             <button class="single_add_to_cart_button button">Add to cart
                             </button>
@@ -172,7 +172,7 @@
                     </div>
                     <div class="product-info">
                       <h5 class="product-name product_title">
-                        <a href="#">{{item.name}}</a>
+                        <a [routerLink]="'/shop/product-detail/'+ item.id">{{item.name}}</a>
                       </h5>
                       <div class="group-info">
                         <div class="stars-rating">

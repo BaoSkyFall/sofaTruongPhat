@@ -243,3 +243,7 @@
 .gap-5 {
   gap: 3rem;
 }
+
+.cursor-pointer {
+  cursor: pointer;
+}

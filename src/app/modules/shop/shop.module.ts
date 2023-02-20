@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { ShopComponent } from './shop.component';
 import { RouterModule, Routes } from "@angular/router";
 import { FormsModule } from '@angular/forms';
+import { ProductDetailComponent } from './product-detail/product-detail.component';
 
 
 const routes: Routes = [
@@ -11,12 +12,18 @@ const routes: Routes = [
     component: ShopComponent,
 
   },
+  {
+    path: 'product-detail/:id',
+    component: ProductDetailComponent,
+
+  },
 
 ];
 
 @NgModule({
   declarations: [
-    ShopComponent
+    ShopComponent,
+    ProductDetailComponent
   ],
   imports: [
     CommonModule,

@@ -22,6 +22,14 @@ export class ProductsService {
     return of(this.filterByCategoryAndNameAndDescription(result, filter))
 
   }
+  getProductById(id: string) {
+    let result = null;
+    if (id) {
+      result = _.find(_.cloneDeep(this.products), item => item.id == id);
+    }
+
+    return of(result)
+  }
   filterByCategoryAndNameAndDescription(list: any[], filter: { categoryIds: string[], name: string, description: string }) {
     return list.filter(item => {
       // Check if the item's categoryIds array contains all the category IDs in the provided array
@@ -52,14 +60,14 @@ export class ProductsService {
   }
   getListOfProductsRecommend(categoryId: string) {
     const result = _.cloneDeep(this.products) as any[];
+    console.log('result:', result)
     // filter the list by categoryId
     const filteredList = result.filter(item => item.categoryIds.includes(categoryId));
-
     // sort the filtered list by name in ascending order
     filteredList.sort((a, b) => a.name.localeCompare(b.name));
 
     // return the first 10 items in the filtered and sorted list
-    return filteredList.slice(0, 10);
+    return of(filteredList.slice(0, 10));
 
   }
 

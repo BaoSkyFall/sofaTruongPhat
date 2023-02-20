@@ -13570,6 +13570,14 @@ a:active,
   background-color: #ffffff !important;
 }
 
+.text-white {
+  color: #ffffff !important;
+}
+
+.text-black {
+  color: #333 !important;
+}
+
 .bg-secondary {
   background-color: #f3f3f3 !important;
 }
