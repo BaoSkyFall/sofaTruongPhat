@@ -26,7 +26,7 @@ export class ProductsService {
     return list.filter(item => {
       // Check if the item's categoryIds array contains all the category IDs in the provided array
       if (filter.categoryIds && filter.categoryIds.length > 0) {
-        if (!filter.categoryIds.every(id => item.categoryIds.includes(id))) {
+        if (filter.categoryIds.every(id => !item.categoryIds.includes(id))) {
           return false;
         }
       }

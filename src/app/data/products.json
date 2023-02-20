@@ -184,5 +184,1494 @@
       "21.jpg"
     ],
     "sortOrder": 6
+  },
+  {
+    "id": "c201a303-cd8b-4055-a92a-bd214975a576",
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Hallo",
+    "description": "Sofa Hallo là mẫu sofa đơn giản cho không gian thêm phần tinh tế. Sofa được bọc simili bền bỉ chống thấm nước, cùng với khung gỗ chắc chắn. Lớp đệm sofa dày vừa phải, mềm mại, đàn hồi tốt giúp giữ nguyên form dáng sau khi ngồi. Thiết kế của ghế gọn gàng tối giản, kích thước vừa phải cho hộ gia đình vừa và nhỏ. Sofa thích hợp với nhiều phong cách trang trí nội thất khác nhau.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Vệ sinh sản phẩm bằng cây lăn bụi hoặc máy hút bụi.Tránh để sản phẩm gần những nơi có nhiệt độ cao, hay gần lửa"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      }
+    ],
+    "images": [
+      "12.jpg",
+      "10.jpg",
+      "11.jpg"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
+    "categoryIds": [
+      "SOFA_NI_NHUNG",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Giường Gấp Cao Cấp",
+    "description": "Cơ chế giường sofa gấp xuống. Bọc ghế sofa có thể tháo rời bằng khóa kéo. Khóa dán ở một số bộ phận để đặt nắp tốt hơn.Vỏ đệm có thể tháo rời để giặt. Đi kèm với tổng cộng 4 đệm. Bao gồm lắp ráp miễn phí.Độ cứng: 4/5.Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      },
+      {
+        "key": "Kích Thước Khi Đặt Thành Giường",
+        "value": "192x120x40cm"
+      },
+      {
+        "key": "Kích Thước Gối",
+        "value": "57x35x10cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Hút bụi hàng tuần và lau bằng chất tẩy vải bằng vải mềm sạch. Nên vệ sinh chuyên nghiệp đối với các vết bẩ"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      }
+    ],
+    "images": [
+      "14.jpg",
+      "16.jpg",
+      "15.jpg",
+      "13.jpg"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_NI_NHUNG"
+    ],
+    "name": "Sofa Da Thật Luka Sang Trọng",
+    "description": "Đơn giản nhưng linh hoạt, Luka Sofa là giấc mơ của mọi chủ sở hữu nhà công nghiệp. Ghế bọc da chất lượng cao làm cho thiết kế đơn giản này trông rất tinh tế và cũng rất linh hoạt để trang bị cho bất kỳ nội thất gia đình theo chủ đề công nghiệp nào. Dễ dàng kết hợp và đơn giản theo cách chất lượng của nó. Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      },
+      {
+        "key": "CHiều rộng ghế",
+        "value": "178cm"
+      },
+      {
+        "key": "Chiều cao ghế",
+        "value": "45cm"
+      },
+      {
+        "key": "Độ sâu ghế",
+        "value": "60cm"
+      },
+      {
+        "key": "Chiều rộng tay vịn",
+        "value": "9cm"
+      },
+      {
+        "key": "Chiều cao tay vịn",
+        "value": "68cm"
+      },
+      {
+        "key": "Chiều cao chân",
+        "value": "20cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg/ghế"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Thỉnh thoảng lau đồ da bằng vải khô, sạch. Không sử dụng hóa chất tẩy rửa, chỉ sử dụng sản phẩm được phép sử dụng trên da. Không bao giờ được chà hoặc chà da bằng vật nhọn. Tránh đặt sofa gần ánh nắng. Mồ hôi hoặc bất kỳ chất lỏng nào sẽ khiến đồ da bị sẫm màu theo thời gian nếu không được xử lý ngay. Nếu xảy ra sự cố tràn, hãy thấm ngay chất lỏng dư thừa bằng một miếng vải thấm hút màu trắng sạc"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      }
+    ],
+    "images": [
+      "18.jpg",
+      "19.jpg",
+      "20.jpg",
+      "21.jpg",
+      "17.jpg"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": "c201a303-cd8b-4055-a92a-bd214975a576",
+    "categoryIds": [
+      "SOFA_GOC_CHU_L",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Hallo",
+    "description": "Sofa Hallo là mẫu sofa đơn giản cho không gian thêm phần tinh tế. Sofa được bọc simili bền bỉ chống thấm nước, cùng với khung gỗ chắc chắn. Lớp đệm sofa dày vừa phải, mềm mại, đàn hồi tốt giúp giữ nguyên form dáng sau khi ngồi. Thiết kế của ghế gọn gàng tối giản, kích thước vừa phải cho hộ gia đình vừa và nhỏ. Sofa thích hợp với nhiều phong cách trang trí nội thất khác nhau.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Vệ sinh sản phẩm bằng cây lăn bụi hoặc máy hút bụi.Tránh để sản phẩm gần những nơi có nhiệt độ cao, hay gần lửa"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      }
+    ],
+    "images": [
+      "12.jpg",
+      "10.jpg",
+      "11.jpg"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_GOC_CHU_L"
+    ],
+    "name": "Sofa Giường Gấp Cao Cấp",
+    "description": "Cơ chế giường sofa gấp xuống. Bọc ghế sofa có thể tháo rời bằng khóa kéo. Khóa dán ở một số bộ phận để đặt nắp tốt hơn.Vỏ đệm có thể tháo rời để giặt. Đi kèm với tổng cộng 4 đệm. Bao gồm lắp ráp miễn phí.Độ cứng: 4/5.Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      },
+      {
+        "key": "Kích Thước Khi Đặt Thành Giường",
+        "value": "192x120x40cm"
+      },
+      {
+        "key": "Kích Thước Gối",
+        "value": "57x35x10cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Hút bụi hàng tuần và lau bằng chất tẩy vải bằng vải mềm sạch. Nên vệ sinh chuyên nghiệp đối với các vết bẩ"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      }
+    ],
+    "images": [
+      "16.jpg",
+      "15.jpg",
+      "13.jpg",
+      "14.jpg"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "categoryIds": [
+      "SOFA_NI_NHUNG",
+      "SOFA_BANG_VANG",
+      "SOFA_GOC_CHU_L"
+    ],
+    "name": "Sofa Da Thật Luka Sang Trọng",
+    "description": "Đơn giản nhưng linh hoạt, Luka Sofa là giấc mơ của mọi chủ sở hữu nhà công nghiệp. Ghế bọc da chất lượng cao làm cho thiết kế đơn giản này trông rất tinh tế và cũng rất linh hoạt để trang bị cho bất kỳ nội thất gia đình theo chủ đề công nghiệp nào. Dễ dàng kết hợp và đơn giản theo cách chất lượng của nó. Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      },
+      {
+        "key": "CHiều rộng ghế",
+        "value": "178cm"
+      },
+      {
+        "key": "Chiều cao ghế",
+        "value": "45cm"
+      },
+      {
+        "key": "Độ sâu ghế",
+        "value": "60cm"
+      },
+      {
+        "key": "Chiều rộng tay vịn",
+        "value": "9cm"
+      },
+      {
+        "key": "Chiều cao tay vịn",
+        "value": "68cm"
+      },
+      {
+        "key": "Chiều cao chân",
+        "value": "20cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg/ghế"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Thỉnh thoảng lau đồ da bằng vải khô, sạch. Không sử dụng hóa chất tẩy rửa, chỉ sử dụng sản phẩm được phép sử dụng trên da. Không bao giờ được chà hoặc chà da bằng vật nhọn. Tránh đặt sofa gần ánh nắng. Mồ hôi hoặc bất kỳ chất lỏng nào sẽ khiến đồ da bị sẫm màu theo thời gian nếu không được xử lý ngay. Nếu xảy ra sự cố tràn, hãy thấm ngay chất lỏng dư thừa bằng một miếng vải thấm hút màu trắng sạc"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      }
+    ],
+    "images": [
+      "19.jpg",
+      "20.jpg",
+      "21.jpg",
+      "17.jpg",
+      "18.jpg"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": "c201a303-cd8b-4055-a92a-bd214975a576",
+    "categoryIds": [
+      "GIUONG_SOFA",
+      "SOFA_DON_ARMCHAIR"
+    ],
+    "name": "Sofa Hallo",
+    "description": "Sofa Hallo là mẫu sofa đơn giản cho không gian thêm phần tinh tế. Sofa được bọc simili bền bỉ chống thấm nước, cùng với khung gỗ chắc chắn. Lớp đệm sofa dày vừa phải, mềm mại, đàn hồi tốt giúp giữ nguyên form dáng sau khi ngồi. Thiết kế của ghế gọn gàng tối giản, kích thước vừa phải cho hộ gia đình vừa và nhỏ. Sofa thích hợp với nhiều phong cách trang trí nội thất khác nhau.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Vệ sinh sản phẩm bằng cây lăn bụi hoặc máy hút bụi.Tránh để sản phẩm gần những nơi có nhiệt độ cao, hay gần lửa"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      }
+    ],
+    "images": [
+      "10.jpg",
+      "11.jpg",
+      "12.jpg"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
+    "categoryIds": [
+      "GIUONG_SOFA",
+      "SOFA_THU_GIAN"
+    ],
+    "name": "Sofa Giường Gấp Cao Cấp",
+    "description": "Cơ chế giường sofa gấp xuống. Bọc ghế sofa có thể tháo rời bằng khóa kéo. Khóa dán ở một số bộ phận để đặt nắp tốt hơn.Vỏ đệm có thể tháo rời để giặt. Đi kèm với tổng cộng 4 đệm. Bao gồm lắp ráp miễn phí.Độ cứng: 4/5.Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      },
+      {
+        "key": "Kích Thước Khi Đặt Thành Giường",
+        "value": "192x120x40cm"
+      },
+      {
+        "key": "Kích Thước Gối",
+        "value": "57x35x10cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Hút bụi hàng tuần và lau bằng chất tẩy vải bằng vải mềm sạch. Nên vệ sinh chuyên nghiệp đối với các vết bẩ"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      }
+    ],
+    "images": [
+      "15.jpg",
+      "13.jpg",
+      "14.jpg",
+      "16.jpg"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Da Thật Luka Sang Trọng",
+    "description": "Đơn giản nhưng linh hoạt, Luka Sofa là giấc mơ của mọi chủ sở hữu nhà công nghiệp. Ghế bọc da chất lượng cao làm cho thiết kế đơn giản này trông rất tinh tế và cũng rất linh hoạt để trang bị cho bất kỳ nội thất gia đình theo chủ đề công nghiệp nào. Dễ dàng kết hợp và đơn giản theo cách chất lượng của nó. Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      },
+      {
+        "key": "CHiều rộng ghế",
+        "value": "178cm"
+      },
+      {
+        "key": "Chiều cao ghế",
+        "value": "45cm"
+      },
+      {
+        "key": "Độ sâu ghế",
+        "value": "60cm"
+      },
+      {
+        "key": "Chiều rộng tay vịn",
+        "value": "9cm"
+      },
+      {
+        "key": "Chiều cao tay vịn",
+        "value": "68cm"
+      },
+      {
+        "key": "Chiều cao chân",
+        "value": "20cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg/ghế"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Thỉnh thoảng lau đồ da bằng vải khô, sạch. Không sử dụng hóa chất tẩy rửa, chỉ sử dụng sản phẩm được phép sử dụng trên da. Không bao giờ được chà hoặc chà da bằng vật nhọn. Tránh đặt sofa gần ánh nắng. Mồ hôi hoặc bất kỳ chất lỏng nào sẽ khiến đồ da bị sẫm màu theo thời gian nếu không được xử lý ngay. Nếu xảy ra sự cố tràn, hãy thấm ngay chất lỏng dư thừa bằng một miếng vải thấm hút màu trắng sạc"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      }
+    ],
+    "images": [
+      "20.jpg",
+      "21.jpg",
+      "17.jpg",
+      "18.jpg",
+      "19.jpg"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": "c201a303-cd8b-4055-a92a-bd214975a576",
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Hallo",
+    "description": "Sofa Hallo là mẫu sofa đơn giản cho không gian thêm phần tinh tế. Sofa được bọc simili bền bỉ chống thấm nước, cùng với khung gỗ chắc chắn. Lớp đệm sofa dày vừa phải, mềm mại, đàn hồi tốt giúp giữ nguyên form dáng sau khi ngồi. Thiết kế của ghế gọn gàng tối giản, kích thước vừa phải cho hộ gia đình vừa và nhỏ. Sofa thích hợp với nhiều phong cách trang trí nội thất khác nhau.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Vệ sinh sản phẩm bằng cây lăn bụi hoặc máy hút bụi.Tránh để sản phẩm gần những nơi có nhiệt độ cao, hay gần lửa"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      }
+    ],
+    "images": [
+      "10.jpg",
+      "11.jpg",
+      "12.jpg"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Giường Gấp Cao Cấp",
+    "description": "Cơ chế giường sofa gấp xuống. Bọc ghế sofa có thể tháo rời bằng khóa kéo. Khóa dán ở một số bộ phận để đặt nắp tốt hơn.Vỏ đệm có thể tháo rời để giặt. Đi kèm với tổng cộng 4 đệm. Bao gồm lắp ráp miễn phí.Độ cứng: 4/5.Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      },
+      {
+        "key": "Kích Thước Khi Đặt Thành Giường",
+        "value": "192x120x40cm"
+      },
+      {
+        "key": "Kích Thước Gối",
+        "value": "57x35x10cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Hút bụi hàng tuần và lau bằng chất tẩy vải bằng vải mềm sạch. Nên vệ sinh chuyên nghiệp đối với các vết bẩ"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      }
+    ],
+    "images": [
+      "13.jpg",
+      "14.jpg",
+      "16.jpg",
+      "15.jpg"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Da Thật Luka Sang Trọng",
+    "description": "Đơn giản nhưng linh hoạt, Luka Sofa là giấc mơ của mọi chủ sở hữu nhà công nghiệp. Ghế bọc da chất lượng cao làm cho thiết kế đơn giản này trông rất tinh tế và cũng rất linh hoạt để trang bị cho bất kỳ nội thất gia đình theo chủ đề công nghiệp nào. Dễ dàng kết hợp và đơn giản theo cách chất lượng của nó. Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      },
+      {
+        "key": "CHiều rộng ghế",
+        "value": "178cm"
+      },
+      {
+        "key": "Chiều cao ghế",
+        "value": "45cm"
+      },
+      {
+        "key": "Độ sâu ghế",
+        "value": "60cm"
+      },
+      {
+        "key": "Chiều rộng tay vịn",
+        "value": "9cm"
+      },
+      {
+        "key": "Chiều cao tay vịn",
+        "value": "68cm"
+      },
+      {
+        "key": "Chiều cao chân",
+        "value": "20cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg/ghế"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Thỉnh thoảng lau đồ da bằng vải khô, sạch. Không sử dụng hóa chất tẩy rửa, chỉ sử dụng sản phẩm được phép sử dụng trên da. Không bao giờ được chà hoặc chà da bằng vật nhọn. Tránh đặt sofa gần ánh nắng. Mồ hôi hoặc bất kỳ chất lỏng nào sẽ khiến đồ da bị sẫm màu theo thời gian nếu không được xử lý ngay. Nếu xảy ra sự cố tràn, hãy thấm ngay chất lỏng dư thừa bằng một miếng vải thấm hút màu trắng sạc"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      }
+    ],
+    "images": [
+      "17.jpg",
+      "18.jpg",
+      "19.jpg",
+      "20.jpg",
+      "21.jpg"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": "c201a303-cd8b-4055-a92a-bd214975a576",
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Hallo",
+    "description": "Sofa Hallo là mẫu sofa đơn giản cho không gian thêm phần tinh tế. Sofa được bọc simili bền bỉ chống thấm nước, cùng với khung gỗ chắc chắn. Lớp đệm sofa dày vừa phải, mềm mại, đàn hồi tốt giúp giữ nguyên form dáng sau khi ngồi. Thiết kế của ghế gọn gàng tối giản, kích thước vừa phải cho hộ gia đình vừa và nhỏ. Sofa thích hợp với nhiều phong cách trang trí nội thất khác nhau.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Vệ sinh sản phẩm bằng cây lăn bụi hoặc máy hút bụi.Tránh để sản phẩm gần những nơi có nhiệt độ cao, hay gần lửa"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      }
+    ],
+    "images": [
+      "10.jpg",
+      "11.jpg",
+      "12.jpg"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Giường Gấp Cao Cấp",
+    "description": "Cơ chế giường sofa gấp xuống. Bọc ghế sofa có thể tháo rời bằng khóa kéo. Khóa dán ở một số bộ phận để đặt nắp tốt hơn.Vỏ đệm có thể tháo rời để giặt. Đi kèm với tổng cộng 4 đệm. Bao gồm lắp ráp miễn phí.Độ cứng: 4/5.Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      },
+      {
+        "key": "Kích Thước Khi Đặt Thành Giường",
+        "value": "192x120x40cm"
+      },
+      {
+        "key": "Kích Thước Gối",
+        "value": "57x35x10cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Hút bụi hàng tuần và lau bằng chất tẩy vải bằng vải mềm sạch. Nên vệ sinh chuyên nghiệp đối với các vết bẩ"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      }
+    ],
+    "images": [
+      "13.jpg",
+      "14.jpg",
+      "16.jpg",
+      "15.jpg"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Da Thật Luka Sang Trọng",
+    "description": "Đơn giản nhưng linh hoạt, Luka Sofa là giấc mơ của mọi chủ sở hữu nhà công nghiệp. Ghế bọc da chất lượng cao làm cho thiết kế đơn giản này trông rất tinh tế và cũng rất linh hoạt để trang bị cho bất kỳ nội thất gia đình theo chủ đề công nghiệp nào. Dễ dàng kết hợp và đơn giản theo cách chất lượng của nó. Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      },
+      {
+        "key": "CHiều rộng ghế",
+        "value": "178cm"
+      },
+      {
+        "key": "Chiều cao ghế",
+        "value": "45cm"
+      },
+      {
+        "key": "Độ sâu ghế",
+        "value": "60cm"
+      },
+      {
+        "key": "Chiều rộng tay vịn",
+        "value": "9cm"
+      },
+      {
+        "key": "Chiều cao tay vịn",
+        "value": "68cm"
+      },
+      {
+        "key": "Chiều cao chân",
+        "value": "20cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg/ghế"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Thỉnh thoảng lau đồ da bằng vải khô, sạch. Không sử dụng hóa chất tẩy rửa, chỉ sử dụng sản phẩm được phép sử dụng trên da. Không bao giờ được chà hoặc chà da bằng vật nhọn. Tránh đặt sofa gần ánh nắng. Mồ hôi hoặc bất kỳ chất lỏng nào sẽ khiến đồ da bị sẫm màu theo thời gian nếu không được xử lý ngay. Nếu xảy ra sự cố tràn, hãy thấm ngay chất lỏng dư thừa bằng một miếng vải thấm hút màu trắng sạc"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      }
+    ],
+    "images": [
+      "17.jpg",
+      "18.jpg",
+      "19.jpg",
+      "20.jpg",
+      "21.jpg"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": "c201a303-cd8b-4055-a92a-bd214975a576",
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Hallo",
+    "description": "Sofa Hallo là mẫu sofa đơn giản cho không gian thêm phần tinh tế. Sofa được bọc simili bền bỉ chống thấm nước, cùng với khung gỗ chắc chắn. Lớp đệm sofa dày vừa phải, mềm mại, đàn hồi tốt giúp giữ nguyên form dáng sau khi ngồi. Thiết kế của ghế gọn gàng tối giản, kích thước vừa phải cho hộ gia đình vừa và nhỏ. Sofa thích hợp với nhiều phong cách trang trí nội thất khác nhau.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Vệ sinh sản phẩm bằng cây lăn bụi hoặc máy hút bụi.Tránh để sản phẩm gần những nơi có nhiệt độ cao, hay gần lửa"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      }
+    ],
+    "images": [
+      "10.jpg",
+      "11.jpg",
+      "12.jpg"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Giường Gấp Cao Cấp",
+    "description": "Cơ chế giường sofa gấp xuống. Bọc ghế sofa có thể tháo rời bằng khóa kéo. Khóa dán ở một số bộ phận để đặt nắp tốt hơn.Vỏ đệm có thể tháo rời để giặt. Đi kèm với tổng cộng 4 đệm. Bao gồm lắp ráp miễn phí.Độ cứng: 4/5.Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      },
+      {
+        "key": "Kích Thước Khi Đặt Thành Giường",
+        "value": "192x120x40cm"
+      },
+      {
+        "key": "Kích Thước Gối",
+        "value": "57x35x10cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Hút bụi hàng tuần và lau bằng chất tẩy vải bằng vải mềm sạch. Nên vệ sinh chuyên nghiệp đối với các vết bẩ"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      }
+    ],
+    "images": [
+      "13.jpg",
+      "14.jpg",
+      "16.jpg",
+      "15.jpg"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Da Thật Luka Sang Trọng",
+    "description": "Đơn giản nhưng linh hoạt, Luka Sofa là giấc mơ của mọi chủ sở hữu nhà công nghiệp. Ghế bọc da chất lượng cao làm cho thiết kế đơn giản này trông rất tinh tế và cũng rất linh hoạt để trang bị cho bất kỳ nội thất gia đình theo chủ đề công nghiệp nào. Dễ dàng kết hợp và đơn giản theo cách chất lượng của nó. Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      },
+      {
+        "key": "CHiều rộng ghế",
+        "value": "178cm"
+      },
+      {
+        "key": "Chiều cao ghế",
+        "value": "45cm"
+      },
+      {
+        "key": "Độ sâu ghế",
+        "value": "60cm"
+      },
+      {
+        "key": "Chiều rộng tay vịn",
+        "value": "9cm"
+      },
+      {
+        "key": "Chiều cao tay vịn",
+        "value": "68cm"
+      },
+      {
+        "key": "Chiều cao chân",
+        "value": "20cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg/ghế"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Thỉnh thoảng lau đồ da bằng vải khô, sạch. Không sử dụng hóa chất tẩy rửa, chỉ sử dụng sản phẩm được phép sử dụng trên da. Không bao giờ được chà hoặc chà da bằng vật nhọn. Tránh đặt sofa gần ánh nắng. Mồ hôi hoặc bất kỳ chất lỏng nào sẽ khiến đồ da bị sẫm màu theo thời gian nếu không được xử lý ngay. Nếu xảy ra sự cố tràn, hãy thấm ngay chất lỏng dư thừa bằng một miếng vải thấm hút màu trắng sạc"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      }
+    ],
+    "images": [
+      "17.jpg",
+      "18.jpg",
+      "19.jpg",
+      "20.jpg",
+      "21.jpg"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": "c201a303-cd8b-4055-a92a-bd214975a576",
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Hallo",
+    "description": "Sofa Hallo là mẫu sofa đơn giản cho không gian thêm phần tinh tế. Sofa được bọc simili bền bỉ chống thấm nước, cùng với khung gỗ chắc chắn. Lớp đệm sofa dày vừa phải, mềm mại, đàn hồi tốt giúp giữ nguyên form dáng sau khi ngồi. Thiết kế của ghế gọn gàng tối giản, kích thước vừa phải cho hộ gia đình vừa và nhỏ. Sofa thích hợp với nhiều phong cách trang trí nội thất khác nhau.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Vệ sinh sản phẩm bằng cây lăn bụi hoặc máy hút bụi.Tránh để sản phẩm gần những nơi có nhiệt độ cao, hay gần lửa"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      }
+    ],
+    "images": [
+      "10.jpg",
+      "11.jpg",
+      "12.jpg"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Giường Gấp Cao Cấp",
+    "description": "Cơ chế giường sofa gấp xuống. Bọc ghế sofa có thể tháo rời bằng khóa kéo. Khóa dán ở một số bộ phận để đặt nắp tốt hơn.Vỏ đệm có thể tháo rời để giặt. Đi kèm với tổng cộng 4 đệm. Bao gồm lắp ráp miễn phí.Độ cứng: 4/5.Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      },
+      {
+        "key": "Kích Thước Khi Đặt Thành Giường",
+        "value": "192x120x40cm"
+      },
+      {
+        "key": "Kích Thước Gối",
+        "value": "57x35x10cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Hút bụi hàng tuần và lau bằng chất tẩy vải bằng vải mềm sạch. Nên vệ sinh chuyên nghiệp đối với các vết bẩ"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      }
+    ],
+    "images": [
+      "13.jpg",
+      "14.jpg",
+      "16.jpg",
+      "15.jpg"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Da Thật Luka Sang Trọng",
+    "description": "Đơn giản nhưng linh hoạt, Luka Sofa là giấc mơ của mọi chủ sở hữu nhà công nghiệp. Ghế bọc da chất lượng cao làm cho thiết kế đơn giản này trông rất tinh tế và cũng rất linh hoạt để trang bị cho bất kỳ nội thất gia đình theo chủ đề công nghiệp nào. Dễ dàng kết hợp và đơn giản theo cách chất lượng của nó. Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      },
+      {
+        "key": "CHiều rộng ghế",
+        "value": "178cm"
+      },
+      {
+        "key": "Chiều cao ghế",
+        "value": "45cm"
+      },
+      {
+        "key": "Độ sâu ghế",
+        "value": "60cm"
+      },
+      {
+        "key": "Chiều rộng tay vịn",
+        "value": "9cm"
+      },
+      {
+        "key": "Chiều cao tay vịn",
+        "value": "68cm"
+      },
+      {
+        "key": "Chiều cao chân",
+        "value": "20cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg/ghế"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Thỉnh thoảng lau đồ da bằng vải khô, sạch. Không sử dụng hóa chất tẩy rửa, chỉ sử dụng sản phẩm được phép sử dụng trên da. Không bao giờ được chà hoặc chà da bằng vật nhọn. Tránh đặt sofa gần ánh nắng. Mồ hôi hoặc bất kỳ chất lỏng nào sẽ khiến đồ da bị sẫm màu theo thời gian nếu không được xử lý ngay. Nếu xảy ra sự cố tràn, hãy thấm ngay chất lỏng dư thừa bằng một miếng vải thấm hút màu trắng sạc"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      }
+    ],
+    "images": [
+      "17.jpg",
+      "18.jpg",
+      "19.jpg",
+      "20.jpg",
+      "21.jpg"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": "c201a303-cd8b-4055-a92a-bd214975a576",
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Hallo",
+    "description": "Sofa Hallo là mẫu sofa đơn giản cho không gian thêm phần tinh tế. Sofa được bọc simili bền bỉ chống thấm nước, cùng với khung gỗ chắc chắn. Lớp đệm sofa dày vừa phải, mềm mại, đàn hồi tốt giúp giữ nguyên form dáng sau khi ngồi. Thiết kế của ghế gọn gàng tối giản, kích thước vừa phải cho hộ gia đình vừa và nhỏ. Sofa thích hợp với nhiều phong cách trang trí nội thất khác nhau.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Vệ sinh sản phẩm bằng cây lăn bụi hoặc máy hút bụi.Tránh để sản phẩm gần những nơi có nhiệt độ cao, hay gần lửa"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Bố, nỉ, simili"
+      },
+      {
+        "key": "Kích Thước",
+        "value": "1600x850x420/900"
+      }
+    ],
+    "images": [
+      "10.jpg",
+      "11.jpg",
+      "12.jpg"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": "2eae69ce-5942-4785-b8fc-84aa2b07dd91",
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Giường Gấp Cao Cấp",
+    "description": "Cơ chế giường sofa gấp xuống. Bọc ghế sofa có thể tháo rời bằng khóa kéo. Khóa dán ở một số bộ phận để đặt nắp tốt hơn.Vỏ đệm có thể tháo rời để giặt. Đi kèm với tổng cộng 4 đệm. Bao gồm lắp ráp miễn phí.Độ cứng: 4/5.Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      },
+      {
+        "key": "Kích Thước Khi Đặt Thành Giường",
+        "value": "192x120x40cm"
+      },
+      {
+        "key": "Kích Thước Gối",
+        "value": "57x35x10cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Hút bụi hàng tuần và lau bằng chất tẩy vải bằng vải mềm sạch. Nên vệ sinh chuyên nghiệp đối với các vết bẩ"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Polyeste, Bông"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "190x92x86cm"
+      }
+    ],
+    "images": [
+      "13.jpg",
+      "14.jpg",
+      "16.jpg",
+      "15.jpg"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "categoryIds": [
+      "SOFA_DA_THAT",
+      "SOFA_BANG_VANG"
+    ],
+    "name": "Sofa Da Thật Luka Sang Trọng",
+    "description": "Đơn giản nhưng linh hoạt, Luka Sofa là giấc mơ của mọi chủ sở hữu nhà công nghiệp. Ghế bọc da chất lượng cao làm cho thiết kế đơn giản này trông rất tinh tế và cũng rất linh hoạt để trang bị cho bất kỳ nội thất gia đình theo chủ đề công nghiệp nào. Dễ dàng kết hợp và đơn giản theo cách chất lượng của nó. Lưu ý: Sản phẩm có thể khác một chút so với hình ảnh do sử dụng vật liệu tự nhiên (ví dụ: gỗ, đá cẩm thạch và hạt da) hoặc do điều kiện ánh sáng khi chụp ảnh và cài đặt màn hình.",
+    "information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      },
+      {
+        "key": "CHiều rộng ghế",
+        "value": "178cm"
+      },
+      {
+        "key": "Chiều cao ghế",
+        "value": "45cm"
+      },
+      {
+        "key": "Độ sâu ghế",
+        "value": "60cm"
+      },
+      {
+        "key": "Chiều rộng tay vịn",
+        "value": "9cm"
+      },
+      {
+        "key": "Chiều cao tay vịn",
+        "value": "68cm"
+      },
+      {
+        "key": "Chiều cao chân",
+        "value": "20cm"
+      },
+      {
+        "key": "Sức chịu đựng",
+        "value": "120kg/ghế"
+      },
+      {
+        "key": "Hướng Dẫn Bảo Quản",
+        "value": "Thỉnh thoảng lau đồ da bằng vải khô, sạch. Không sử dụng hóa chất tẩy rửa, chỉ sử dụng sản phẩm được phép sử dụng trên da. Không bao giờ được chà hoặc chà da bằng vật nhọn. Tránh đặt sofa gần ánh nắng. Mồ hôi hoặc bất kỳ chất lỏng nào sẽ khiến đồ da bị sẫm màu theo thời gian nếu không được xử lý ngay. Nếu xảy ra sự cố tràn, hãy thấm ngay chất lỏng dư thừa bằng một miếng vải thấm hút màu trắng sạc"
+      }
+    ],
+    "price": null,
+    "main-information": [
+      {
+        "key": "Chất Liệu",
+        "value": "Khung gỗ Bạch Dương"
+      },
+      {
+        "key": "Vải bọc",
+        "value": "Top Split Leather"
+      },
+      {
+        "key": "Kích Thước Tổng thể",
+        "value": "196x88x82cm"
+      }
+    ],
+    "images": [
+      "17.jpg",
+      "18.jpg",
+      "19.jpg",
+      "20.jpg",
+      "21.jpg"
+    ],
+    "sortOrder": 6
   }
 ]

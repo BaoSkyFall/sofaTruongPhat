@@ -14,19 +14,20 @@
         </div>
       </div>
     </div> -->
-    <div class="row">
+    <div class="row mt-4">
       <div class="content-area shop-grid-content no-banner col-lg-9 col-md-9 col-sm-12 col-xs-12">
         <div class="site-main">
-          <!-- <h3 class="custom_blog_title">
-            Grid Products
-          </h3> -->
-          <div class="shop-top-control d-flex align-items-center">
-            <form class="select-item select-form d-flex align-items-center">
+          <h3 class="custom_blog_title bg-white text-left">
+            Sản Phẩm Sofa Trường Phát
+          </h3>
+          <div class="shop-top-control d-flex align-items-center bg-secondary">
+            <div class="select-item select-form d-flex align-items-center gap-2">
               <span class="title">Tìm kiếm</span>
-              <span class="form-control-wrap your-email">
-                <input title="your-email" size="15" class="form-control form-control-email">
+              <span class="form-control-wrap ">
+                <input size="15" [(ngModel)]="params.searchKey" (ngModelChange)="params.searchKey = $event;changeUrl()"
+                  class="form-control form-control-email">
               </span>
-            </form>
+            </div>
             <!-- <form class="filter-choice select-form">s
               <span class="title">Sort by</span>
               <select title="sort-by" data-placeholder="Price: Low to High" class="chosen-select">
@@ -125,10 +126,11 @@
         <div class="wrapper-sidebar shop-sidebar mt-1">
           <div class="widget woof_Widget">
             <div class="widget widget-categories">
-              <h3 class="widgettitle">Categories</h3>
+              <h3 class="widgettitle text-left">Loại Sofa</h3>
               <ul class="list-categories">
                 <li *ngFor="let category of data.categories">
-                  <input type="checkbox" [id]="category.id">
+                  <input type="checkbox" [checked]="params.categories.includes(category.id)" [id]="category.id"
+                    [value]="category.id" (change)="onChangesCategory($event)">
                   <label [for]="category.id" class="label-text">
                     {{category.name}}
                   </label>

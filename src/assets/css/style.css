@@ -13570,6 +13570,10 @@ a:active,
   background-color: #ffffff !important;
 }
 
+.bg-secondary {
+  background-color: #f3f3f3 !important;
+}
+
 .bg-primary {
   background-color: #b6c0c8 !important;
 }
